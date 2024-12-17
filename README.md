@@ -1,4 +1,12 @@
 # 2-2-Project-One-Milestone
+//Complete the UML diagram to accurately represent a singleton pattern for the Game Service class.
+//Use the singleton pattern to adapt an ordinary class definition, so that only one instance of the GameService class exists in memory at any time.
+//Explain the purpose and characteristics of the singleton pattern you are using in the context of this application. Include this brief explanation as comments in your code.
+//In the Game Service class, use the iterator pattern to complete the coding for the addGame() and both getGame() methods
+//Explain the purpose and characteristics of the iterator pattern you are using in the context of this application. Include this brief explanation as comments in your code. //The comments will be used to communicate your understanding of the pattern you implemented to your instructor.
+//Demonstrate industry standard best practices to enhance the readability of your code, including appropriate naming conventions and in-line comments that describe the //functionality.
+//Run and compile the code to ensure the application is functional and the requirements have been met
+
 2-2 Project One Milestone FIXME file
 package com.gamingroom;
 
